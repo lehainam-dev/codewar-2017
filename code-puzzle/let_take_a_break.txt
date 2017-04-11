@@ -1,0 +1,12 @@
+-----------------------------------------------
+=> AAAAAA = ICANDO
+-----------------------------------------------
+@ = TIGER
+å = CAT
+~ = DOG
+regex = (3[TIGER](.{8})[CAT][DOG])
+=> BBBBBBBB = WHATEVER
+-----------------------------------------------
+=> CCCCC = UWANT
+
+result = CodeWar{ICANDO_WHATEVER_UWANT}
