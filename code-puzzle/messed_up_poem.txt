@@ -1,0 +1,6 @@
+i iwll ellt ouy ohw ot tge eht falg => i will tell you how to get the flag
+uyo hsulod atke eth oglwlfoin nlei => you should take the following line
+dan tup esceunrord newbtee hetos rodws => and put underscore between those words
+dan tvernco lal fo emht ot repup seac => and convert all of them to upper case
+
+result => CodeWar{HOW_CAN_YOU_SMILE_AND_STILL_LOOK_SO_SAD}
